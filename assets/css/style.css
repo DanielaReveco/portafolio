@@ -1,0 +1,98 @@
+.navbar {
+  background-color: #660066;
+  padding-bottom: 8px;
+  position: fixed;
+  width: 100vw;
+}
+
+.m {
+  font-family: 'Oswald';
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.fontdescrip {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  margin-top: 28px;
+  line-height: 40px;
+}
+
+.Me {
+  font-family: 'Oswald';
+  font-weight: bold;
+}
+
+.hr1 {
+  height: 2px;
+  width: 40%;
+  background-color: white;
+}
+
+.hr2 {
+  height: 1px;
+  width: 10%;
+  background-color: black;
+  margin-top: 40px;
+}
+
+.hr3 {
+  width: 10%;
+  background-color: white;
+}
+
+.ys {
+  font-family: 'Oswald';
+  padding-top: 40rem;
+  font-weight: 200;
+}
+
+.mag {
+  font-weight: bold;
+  font-family: 'Oswald';
+  text-align: center;
+  color: white;
+}
+
+.fontdesc2 {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  margin-top: 50px;
+  line-height: 40px;
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  background-color: #660066;
+  text-align: center;
+}
+
+#mistrabajos {
+  background-color: #660066;
+}
+
+.fab1 {
+  color: #660066;
+}
+
+.fech-trab {
+  font-family: 'Open Sans';
+  font-weight: 300;
+}
+
+.trab {
+  font-family: 'Oswald';
+  font-weight: 400;
+  text-align: left;
+}
+
+.icon {
+  color: #ffffff;
+  text-decoration: none;
+}
