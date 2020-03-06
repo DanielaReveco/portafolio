@@ -45,6 +45,8 @@
   font-family: 'Oswald';
   padding-top: 40rem;
   font-weight: 200;
+  text-align: center;
+  color:white;
 }
 
 .mag {
@@ -52,6 +54,7 @@
   font-family: 'Oswald';
   text-align: center;
   color: white;
+  padding-bottom: 70px;
 }
 
 .fontdesc2 {

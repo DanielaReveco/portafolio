@@ -13,6 +13,7 @@ $(function(){
       });
     }
   });
+  window.onload=function(){alert('Bienvenido al Portafolio de Magdalena');}
 
 
 });
