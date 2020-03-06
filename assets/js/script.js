@@ -16,6 +16,6 @@ $(function() {
   window.onload = function() {
     alert('Bienvenido al Portafolio de Magdalena');
   }
-
+$('[data-toggle="popover"]').popover();
 
 });
